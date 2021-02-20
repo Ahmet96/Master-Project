@@ -1,0 +1,8 @@
+{
+    "type": "chrome",
+    "request": "launch",
+    "name": "Debug in Chrome",
+    "url": "http://localhost:9229",
+    "webRoot": "${workspaceFolder}/app.js",
+    "port": 9229
+}
